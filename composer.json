@@ -1,0 +1,17 @@
+{
+    "name": "dhluther/coverage-for-total-security",
+    "description": "Sample Application for demonstrating application migration coverage",
+    "type": "project",
+    "require": {
+        "codeception/codeception": "^2.2",
+        "yiisoft/yii": "^1.1",
+        "twitter/bootstrap": "^3.3"
+    },
+    "authors": [
+        {
+            "name": "Dana Luther",
+            "email": "dluther@enviageinternational.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
